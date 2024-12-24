@@ -1,0 +1,1580 @@
+{
+    "Faculty of Computer Science and Information Technology": {
+        "Bachelor in Computer Science with Honours": {
+            "Semester 1": {
+                "CCS3003 Discrete Structure": {
+                    "Topic 1 - Fundamentals of Logic": {
+                        "Chapter 1 Part 1 Logic": "https://docs.google.com/presentation/d/1PS46-udoEafKpf5wfyrZ3NPMxK6QNvq5/edit#slide=id.p1",
+                        "Chapter 1 Part 2 Predicates Quantifiers": "https://docs.google.com/presentation/d/1FbCzcjGw5oKMTyu3N2ykGp7VqcYY1IhU/edit#slide=id.p1",
+                        "Chapter 1 Part 3 Rules of Inference": "https://docs.google.com/presentation/d/17lpGctENVoERhNgnKmexmTKldwQr1WRX/edit#slide=id.p1",
+                        "Notes on Propositional Equivalences": "https://drive.google.com/file/d/1LsD7XbhUc9gMmCUMkeZ0Bi4pxSzMnkKU/view?usp=sharing",
+                        "Quiz 1": "https://drive.google.com/file/d/1MEzqGGBCNU4KjYAxf_WYIDeuT-f_m_EF/view?usp=sharing",
+                        "Quiz 2": "https://drive.google.com/file/d/1cVfM7PuQb2JAclmJBWxwi-5XeftYv-3l/view?usp=sharing",
+                        "Assignment 1 - 1": "https://drive.google.com/file/d/1RqWbV4H-t3sBkw06OafTUM09L2eCbqBz/view?usp=sharing",
+                        "Assignment 1 - 2": "https://drive.google.com/file/d/1Wp1hrNXYv37cYdNRGRwdUhDagXSGfYXg/view?usp=sharing",
+                        "Assignment 1 - 3": "https://drive.google.com/file/d/12Hdbv2tdkmAFzjgXVG2n3h63VDrU5DKT/view?usp=sharing"
+                    },
+                    "Topic 2 - Sets and Functions": {
+                        "Chapter 2 Part 1 Set": "https://docs.google.com/presentation/d/14vmC2Sg-Ed6BwdalRrCQriwF7aIsWV0f/edit#slide=id.p2",
+                        "Chapter 2 Part 2 Functions": "https://docs.google.com/presentation/d/1Q2W4s2J5bjOykPGLO0My5iFdlIMruLs5/edit#slide=id.p1",
+                        "Assignment 2 - 1": "https://drive.google.com/file/d/1HOqNwBz1bAXDe85Cg_EP5B3DuC0NlVOO/view?usp=sharing",
+                        "Assignment 2 - 2": "https://drive.google.com/file/d/1TNjQ-EN6QUFYNQkUpZUTV-nzzoqhpG31/view?usp=sharing"
+                    },
+                    "Topic 3 - Relations": {
+                        "Chapter 3 - Relations": "https://docs.google.com/presentation/d/1jxdHEaeuV4aKVQ4NBdcbRREYhRLpQkVH/edit#slide=id.p1",
+                        "Quiz 3": "https://drive.google.com/file/d/1IPLlnoJzRchivG3LL5tIvvUeO1Zyzv38/view?usp=sharing",
+                        "Test 1 - Answer Scheme": "https://drive.google.com/file/d/1UmWt-Xzw7GGDAx48E58IWPTqVRlGJ0Ch/view?usp=sharing"
+                    },
+                    "Topic 4 - Mathematic Induction": {
+                        "Chapter 4 Part 1 Induction": "https://docs.google.com/presentation/d/1r68l6J2VK-5kpg7rKl2VBweeiJrCCWwA/edit#slide=id.p1",
+                        "Chapter 4 Part 2 Recurrence Relation": "https://docs.google.com/presentation/d/1Oq7CArkZuD-knlzVMuslAgk9LL49Ghfe/edit#slide=id.p1",
+                        "Assignment 4 - 1": "https://drive.google.com/file/d/1paLVHFChlTqo5kteI3cRNMuq_wLLhjiF/view?usp=sharings",
+                        "Assignment 4 - 2": "https://drive.google.com/file/d/1JcRIczy1EiJJDkQAtP8_XbDpCxzcStAS/view?usp=sharing",
+                        "Quiz": "https://drive.google.com/file/d/1nctfsM4I_vsTJcyUY3nL7_0zxobZRUg5/view?usp=sharing",
+                        "Notes on Recurrence Relation": "https://drive.google.com/file/d/15LbQ8DJFP_OL0GqIjPvMueiJ7YWi9hhf/view?usp=sharing",
+                        "Quiz 4": "https://drive.google.com/file/d/1-1HMM0rI94cgjwDDb3NLYR5TUUhmFcar/view?usp=sharing"
+                    },
+                    "Topic 5 - Counting": {
+                        "Chapter 5 - Counting": "https://docs.google.com/presentation/d/1-y-j8DvxMmzN1lcIwWfSzuTYMCZ3-u47/edit#slide=id.p1"
+                    },
+                    "Topic 6 - Graph": {
+                        "Chapter 6 - Graph Theory": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 7 - Trees": {
+                        "Chapter 7 - Trees": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 8 - Modelling Computation": {
+                        "Chapter 8 - Modelling Computation": "https://docs.google.com/presentation/d/1-o9wIJ3GYq1qWkNPVw93PmQcCbPkE_iA/edit#slide=id.p1"
+                    }
+                },
+                "CCS3100 Problem Solving and Programming Concepts": {
+                    "Topic 1 - Programming Concepts": {
+                        "Topic 1 - Programming Concepts": "https://docs.google.com/presentation/d/1YmLqz-GsxxlBvhT5NFpqx9DKHqrVXRTN/edit#slide=id.p1",
+                        "Lab 1": "https://drive.google.com/file/d/10qgblu6-7QuIAbqi0JVEUFxejXH34Vt6/view?usp=sharing"
+                    },
+                    "Topic 2 - Basic Data Types and Operations": {
+                        "Topic 2 - Basic Data Types and Operations": "https://docs.google.com/presentation/d/1LNArdirUs0Pq9L6HMALUJqqlZg5FNeop/edit#slide=id.p1",
+                        "Lab 2": "https://drive.google.com/file/d/19gbodfdozoVTwy5CipCNEqAm3o6WOEx_/view?usp=sharing"
+                    },
+                    "Topic 3 - Problem Solving Techniques": {
+                        "Topic 3 - Problem Solving Techniques": "https://docs.google.com/presentation/d/1vyg9rhUvr-ZrJm1Gkvy1w9eIlljt_KEh/edit#slide=id.p1",
+                        "Lab 3": "https://drive.google.com/file/d/1U8-SQ2pcTlWGyUH-UpjJf9DNNT1deNse/view?usp=sharing"
+                    },
+                    "Topic 4 - Problem Solving with Selection Control": {
+                        "Topic 4 - Problem Solving with Selection Control": "https://docs.google.com/presentation/d/1fJ-MXjiyzU6okCX1kH1zkOR6CI3Z8trV/edit#slide=id.p1",
+                        "Lab 4": "https://drive.google.com/file/d/1MyubXn9802V2F9ywRCobAhAn-fxaEwaV/view?usp=sharing"
+                    },
+                    "Topic 5 - Problem Solving with Loop Control": {
+                        "Topic 5 - Problem Solving with Loop Control": "https://docs.google.com/presentation/d/1BTkmcjHGQ4zuK2E1Xy_sLdngshoU17UD/edit#slide=id.p1s",
+                        "Lab 5": "https://drive.google.com/file/d/1LsA-2RjGaFxg1Uwm73NX0t8OP1nE2ZN_/view?usp=sharing"
+                    },
+                    "Topic 6 - Strings": {
+                        "Topic 6 - Strings": "https://docs.google.com/presentation/d/1wproa9GaXXDdHTFwn8wUrDdvi-kdFA00/edit#slide=id.p1",
+                        "Lab 6": "https://drive.google.com/file/d/1Gvh8RYuHmrkAbRDmsXlP5V7cfkPThIEY/view?usp=sharing",
+                        "Lab 6 - 2": "https://drive.google.com/file/d/1pxJyc0NdWgbYI87OVhiTG5__xTCrNj-q/view?usp=sharing"
+                    },
+                    "Topic 7 - Problem Solving using Subroutine": {
+                        "Topic 7 - Problem Solving using Subroutine": "https://docs.google.com/presentation/d/1_eeJOur8nIWfm2Co7p-ArADezf28JTOw/edit#slide=id.p1",
+                        "Lab 7": "https://drive.google.com/file/d/1hlfKiE0P5bGR3zrbxzV7NdkSibN7OwrM/view?usp=sharing"
+                    }
+                },
+                "FEM2401 Malaysian Politic and Society": {
+                    "TOPIC 1: EARLY HISTORY AND BACKGROUND OF THE SOCIETY": "https://docs.google.com/presentation/d/1pwoAoc5Hi0hape-eITV0T6zKIKkd1S3t/edit#slide=id.p1",
+                    "TOPIC 2: INDEPENDENCE OF MALAYSIA": "https://docs.google.com/presentation/d/1rksIa0N3Ld24i5LejsWjsLdCmxRvMOIY/edit#slide=id.p1",
+                    "TOPIC 3: CULTURE, RELIGION, AND TRADITIONAL PRACTICES OF THE MULTI-ETHNIC SOCIETY": "https://docs.google.com/presentation/d/1n4eEFS3-SzKkOnAv7T656DiY32B4m4gl/edit#slide=id.p1",
+                    "Topic 4: The Federal Constitution of Malaysia": "https://docs.google.com/presentation/d/1Sv6jBDyW11cEagDK0WoCgZt3gQkppMGs/edit#slide=id.p1",
+                    "Topic 5: CONSTITUTIONAL MONARCHY": "https://docs.google.com/presentation/d/1IGLLQWjbSiWc8KlCjD0gwSV14lASFUKk/edit#slide=id.p1",
+                    "Topic 6: PARLIAMENTARY DEMOCRACY": "https://docs.google.com/presentation/d/1GQCgLZFsyaaFsKUG67lqFOwbdgTdEKTh/edit#slide=id.p1",
+                    "Topic 7: FEDERAL SYSTEM": "https://docs.google.com/presentation/d/1ZzpYPELHLhZXrFMeIxGXeDvYag95oPqp/edit#slide=id.p1",
+                    "Topic 8: Executive": "https://docs.google.com/presentation/d/1BsCTUeNzfXBPWH_IoIs6eyPBZdDOpz0Z/edit#slide=id.p1",
+                    "Topic 9: Legislative and Judiciary": "https://docs.google.com/presentation/d/1Bvan5Mwi1aM4B6T67I-BtdYD5iIQpn9H/edit#slide=id.p1",
+                    "Topic 10: Major National Policies": "https://docs.google.com/presentation/d/1KM3BdJpUgz_Ue5FBQrp0PzntpLc84Dv0/edit#slide=id.p1",
+                    "Topic 11: Society and National Identity": "https://docs.google.com/presentation/d/1xbBI5IVZr-IWuqEoiKOdLd5Y-4ofm7wS/edit#slide=id.p1",
+                    "Topic 12: Current Issues and Development in Malaysia": "https://docs.google.com/presentation/d/1-dgyAnMv9_Qqe6iqwXM4poM3O_5aK1ee/edit#slide=id.p1"
+                },
+                "SKP3113 Philosophy and Current Issues in Society": {
+                    "Introduction": "https://drive.google.com/file/d/1MyY3z9TmVpZCaS7h3DiFhHoKhmRvwUpm/view?usp=sharing",
+                    "Topic 1 - Introduction to Philosphy": "https://docs.google.com/presentation/d/1WCVjzlFz2SHFHtma8PKSyf2Xwi6QHb4P/edit#slide=id.p1",
+                    "Topic 2 - Philosophy and Life": "https://docs.google.com/presentation/d/1Am7foVAjQVpa1X3LTtDFixbZhEIIRCfd/edit#slide=id.p1",
+                    "Topic 3 - Logic": "https://docs.google.com/presentation/d/1_s-JjYoxARjZdkTTKa2yxMi_9q1wGHsF/edit#slide=id.p1",
+                    "Topic 4 - Concept of Man - Psychology and Sociology": "https://docs.google.com/presentation/d/1oGVZYPmTnxzY8_DYAyGI5ofS1SfjxJCw/edit#slide=id.p1",
+                    "Topic 5 - Concept of Man - Metaphysics": "https://docs.google.com/presentation/d/1xDg8PGOeMTvJMVtTNxvdiK5v3ul0O9sn/edit#slide=id.p1",
+                    "Topic 6 - Epistemology": "https://drive.google.com/file/d/1drdrhdEbrjicur0lpys8PUOAum3GDww1/view?usp=sharing",
+                    "Topic 7 - Ideology": "https://docs.google.com/presentation/d/1Un2OszOfEuqHcm67EoWUwMv5EAi5mJ2C/edit#slide=id.p1"
+                },
+                "PRT2009 Agriculture and Life": {
+                    "Topic 1 - Introduction Agriculture": "https://docs.google.com/presentation/d/162OS6IgmjTwKW9D1Riec0OYik9zpIMiW/edit#slide=id.p1",
+                    "Topic 2 - Conventional Agriculture": "https://docs.google.com/presentation/d/1LPTidTDfojnYxUtIMdxshcA_XhvYxcE4/edit#slide=id.p1",
+                    "Topic 3 - Genetically modified": "https://docs.google.com/presentation/d/1ThHiMVFPfLH6l3VzjLLmuaLG_5QMhD1N/edit#slide=id.p2",
+                    "Topic 4 - Issues and Challenges": "https://docs.google.com/presentation/d/1tQTtH_k2v-Q_gOYIQKxTVnvhx8yX68_B/edit#slide=id.p1",
+                    "Topic 5 - Agroecolocy and Climate Change": "https://docs.google.com/presentation/d/1jDtTTMefg2CQzGmHwmROh0yyFjqhLh7I/edit#slide=id.p1",
+                    "Topic 6 - Climate Change": "https://docs.google.com/presentation/d/1y8QQ1dA40NbmZBbzbZoegYSOig7HaAh_/edit#slide=id.p1"
+                },
+                "LPM2100 Bahasa Melayu Komunikasi": {
+
+                }
+            },
+            "Semester 2": {
+                "FEM2313 Integrity and Anti-corruption": {
+                    "Module 1": "",
+                    "Module 2": "https://drive.google.com/file/d/1EvqmwlqLUwFmXcjOkmAKnVjtrc4E2uqE/view?usp=sharing",
+                    "Module 3": "https://drive.google.com/file/d/1xkWQ8ggINwTsWUPFdUirWfyXijNqO8B7/view?usp=sharing",
+                    "Module 4": "https://drive.google.com/file/d/15lZVFtLeowbnm2YTBLDblu9ncw8QRoCY/view?usp=sharing",
+                    "Module 5": "https://drive.google.com/file/d/1ynmQCQjbhWYuSLiDuqr0vAjujqgoOXs3/view?usp=sharing",
+                    "Module 6": "https://drive.google.com/file/d/10yVsN52tuYNioxWVRrUOA1KRRL5UnFz2/view?usp=sharing",
+                    "Module 7": "https://drive.google.com/file/d/1KzdCLWoeQgbfLbExYmbrchxUjunkXgc9/view?usp=sharing"
+                },
+                "CCS3101 Object-Oriented Programming": {
+
+                },
+                "CCS3200 Computer Organization and Architecture": {
+
+                },
+                "CND3200 Computer Network and Communication": {
+
+                },
+                "SSW4202 Ethics in Computing": {
+
+                }
+            },
+            "Semester 3": {
+                "CCS3104 Advanced Programming": {
+
+                },
+                "CCS3202 Data Structures and Algorithms": {
+
+                },
+                "CCS3300 Operating Systems": {
+
+                },
+                "CCS3400 Database Principles": {
+
+                },
+                "SSC3001 Software Engineering": {
+                    
+                },
+                "LPE2302 Reading for Academic Purposes": {
+                    
+                }
+            },
+            "Semester 4": {
+                "CCS3600 Artificial Intelligence": {
+
+                },
+                "CCS3402 Database Application Development": {
+
+                },
+                "CCS3700 Embedded Systems Programming": {
+
+                },
+                "CCS4202 Design and Analysis of Algorithms": {
+
+                },
+                "SSC4500 Computer Security": {
+                    
+                },
+                "LPE2403 Academic Interaction and Presentation": {
+                    
+                }
+            },
+            "Semester 5": {
+                "SSW3307 User Experience and User Interface": {
+
+                },
+                "SSW3041 Mobile Application Development": {
+
+                },
+                "LPE2503 Academic Writing": {
+
+                }
+            },
+            "Semester 6": {
+                "SSW3200 Digital Entrepreneurship": {
+
+                }
+            }
+        },
+        "Bachelor of Computer Science (Multimedia Computing) with Honours": {
+            "Semester 1": {
+                "CCS3003 Discrete Structure": {
+                    "Topic 1 - Fundamentals of Logic": {
+                        "Chapter 1 Part 1 Logic": "https://docs.google.com/presentation/d/1PS46-udoEafKpf5wfyrZ3NPMxK6QNvq5/edit#slide=id.p1",
+                        "Chapter 1 Part 2 Predicates Quantifiers": "https://docs.google.com/presentation/d/1FbCzcjGw5oKMTyu3N2ykGp7VqcYY1IhU/edit#slide=id.p1",
+                        "Chapter 1 Part 3 Rules of Inference": "https://docs.google.com/presentation/d/17lpGctENVoERhNgnKmexmTKldwQr1WRX/edit#slide=id.p1",
+                        "Notes on Propositional Equivalences": "https://drive.google.com/file/d/1LsD7XbhUc9gMmCUMkeZ0Bi4pxSzMnkKU/view?usp=sharing",
+                        "Quiz 1": "https://drive.google.com/file/d/1MEzqGGBCNU4KjYAxf_WYIDeuT-f_m_EF/view?usp=sharing",
+                        "Quiz 2": "https://drive.google.com/file/d/1cVfM7PuQb2JAclmJBWxwi-5XeftYv-3l/view?usp=sharing",
+                        "Assignment 1 - 1": "https://drive.google.com/file/d/1RqWbV4H-t3sBkw06OafTUM09L2eCbqBz/view?usp=sharing",
+                        "Assignment 1 - 2": "https://drive.google.com/file/d/1Wp1hrNXYv37cYdNRGRwdUhDagXSGfYXg/view?usp=sharing",
+                        "Assignment 1 - 3": "https://drive.google.com/file/d/12Hdbv2tdkmAFzjgXVG2n3h63VDrU5DKT/view?usp=sharing"
+                    },
+                    "Topic 2 - Sets and Functions": {
+                        "Chapter 2 Part 1 Set": "https://docs.google.com/presentation/d/14vmC2Sg-Ed6BwdalRrCQriwF7aIsWV0f/edit#slide=id.p2",
+                        "Chapter 2 Part 2 Functions": "https://docs.google.com/presentation/d/1Q2W4s2J5bjOykPGLO0My5iFdlIMruLs5/edit#slide=id.p1",
+                        "Assignment 2 - 1": "https://drive.google.com/file/d/1HOqNwBz1bAXDe85Cg_EP5B3DuC0NlVOO/view?usp=sharing",
+                        "Assignment 2 - 2": "https://drive.google.com/file/d/1TNjQ-EN6QUFYNQkUpZUTV-nzzoqhpG31/view?usp=sharing"
+                    },
+                    "Topic 3 - Relations": {
+                        "Chapter 3 - Relations": "https://docs.google.com/presentation/d/1jxdHEaeuV4aKVQ4NBdcbRREYhRLpQkVH/edit#slide=id.p1",
+                        "Quiz 3": "https://drive.google.com/file/d/1IPLlnoJzRchivG3LL5tIvvUeO1Zyzv38/view?usp=sharing",
+                        "Test 1 - Answer Scheme": "https://drive.google.com/file/d/1UmWt-Xzw7GGDAx48E58IWPTqVRlGJ0Ch/view?usp=sharing"
+                    },
+                    "Topic 4 - Mathematic Induction": {
+                        "Chapter 4 Part 1 Induction": "https://docs.google.com/presentation/d/1r68l6J2VK-5kpg7rKl2VBweeiJrCCWwA/edit#slide=id.p1",
+                        "Chapter 4 Part 2 Recurrence Relation": "https://docs.google.com/presentation/d/1Oq7CArkZuD-knlzVMuslAgk9LL49Ghfe/edit#slide=id.p1",
+                        "Assignment 4 - 1": "https://drive.google.com/file/d/1paLVHFChlTqo5kteI3cRNMuq_wLLhjiF/view?usp=sharings",
+                        "Assignment 4 - 2": "https://drive.google.com/file/d/1JcRIczy1EiJJDkQAtP8_XbDpCxzcStAS/view?usp=sharing",
+                        "Quiz": "https://drive.google.com/file/d/1nctfsM4I_vsTJcyUY3nL7_0zxobZRUg5/view?usp=sharing",
+                        "Notes on Recurrence Relation": "https://drive.google.com/file/d/15LbQ8DJFP_OL0GqIjPvMueiJ7YWi9hhf/view?usp=sharing",
+                        "Quiz 4": "https://drive.google.com/file/d/1-1HMM0rI94cgjwDDb3NLYR5TUUhmFcar/view?usp=sharing"
+                    },
+                    "Topic 5 - Counting": {
+                        "Chapter 5 - Counting": "https://docs.google.com/presentation/d/1-y-j8DvxMmzN1lcIwWfSzuTYMCZ3-u47/edit#slide=id.p1"
+                    },
+                    "Topic 6 - Graph": {
+                        "Chapter 6 - Graph Theory": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 7 - Trees": {
+                        "Chapter 7 - Trees": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 8 - Modelling Computation": {
+                        "Chapter 8 - Modelling Computation": "https://docs.google.com/presentation/d/1-o9wIJ3GYq1qWkNPVw93PmQcCbPkE_iA/edit#slide=id.p1"
+                    }
+                },
+                "CCS3100 Problem Solving and Programming Concepts": {
+                    "Topic 1 - Programming Concepts": {
+                        "Topic 1 - Programming Concepts": "https://docs.google.com/presentation/d/1YmLqz-GsxxlBvhT5NFpqx9DKHqrVXRTN/edit#slide=id.p1",
+                        "Lab 1": "https://drive.google.com/file/d/10qgblu6-7QuIAbqi0JVEUFxejXH34Vt6/view?usp=sharing"
+                    },
+                    "Topic 2 - Basic Data Types and Operations": {
+                        "Topic 2 - Basic Data Types and Operations": "https://docs.google.com/presentation/d/1LNArdirUs0Pq9L6HMALUJqqlZg5FNeop/edit#slide=id.p1",
+                        "Lab 2": "https://drive.google.com/file/d/19gbodfdozoVTwy5CipCNEqAm3o6WOEx_/view?usp=sharing"
+                    },
+                    "Topic 3 - Problem Solving Techniques": {
+                        "Topic 3 - Problem Solving Techniques": "https://docs.google.com/presentation/d/1vyg9rhUvr-ZrJm1Gkvy1w9eIlljt_KEh/edit#slide=id.p1",
+                        "Lab 3": "https://drive.google.com/file/d/1U8-SQ2pcTlWGyUH-UpjJf9DNNT1deNse/view?usp=sharing"
+                    },
+                    "Topic 4 - Problem Solving with Selection Control": {
+                        "Topic 4 - Problem Solving with Selection Control": "https://docs.google.com/presentation/d/1fJ-MXjiyzU6okCX1kH1zkOR6CI3Z8trV/edit#slide=id.p1",
+                        "Lab 4": "https://drive.google.com/file/d/1MyubXn9802V2F9ywRCobAhAn-fxaEwaV/view?usp=sharing"
+                    },
+                    "Topic 5 - Problem Solving with Loop Control": {
+                        "Topic 5 - Problem Solving with Loop Control": "https://docs.google.com/presentation/d/1BTkmcjHGQ4zuK2E1Xy_sLdngshoU17UD/edit#slide=id.p1s",
+                        "Lab 5": "https://drive.google.com/file/d/1LsA-2RjGaFxg1Uwm73NX0t8OP1nE2ZN_/view?usp=sharing"
+                    },
+                    "Topic 6 - Strings": {
+                        "Topic 6 - Strings": "https://docs.google.com/presentation/d/1wproa9GaXXDdHTFwn8wUrDdvi-kdFA00/edit#slide=id.p1",
+                        "Lab 6": "https://drive.google.com/file/d/1Gvh8RYuHmrkAbRDmsXlP5V7cfkPThIEY/view?usp=sharing",
+                        "Lab 6 - 2": "https://drive.google.com/file/d/1pxJyc0NdWgbYI87OVhiTG5__xTCrNj-q/view?usp=sharing"
+                    },
+                    "Topic 7 - Problem Solving using Subroutine": {
+                        "Topic 7 - Problem Solving using Subroutine": "https://docs.google.com/presentation/d/1_eeJOur8nIWfm2Co7p-ArADezf28JTOw/edit#slide=id.p1",
+                        "Lab 7": "https://drive.google.com/file/d/1hlfKiE0P5bGR3zrbxzV7NdkSibN7OwrM/view?usp=sharing"
+                    }
+                },
+                "CSM3001 Multimedia Technology": {
+
+                },
+                "FEM2313 Integrity and Anti-corruption": {
+                    "Module 1": "",
+                    "Module 2": "https://drive.google.com/file/d/1EvqmwlqLUwFmXcjOkmAKnVjtrc4E2uqE/view?usp=sharing",
+                    "Module 3": "https://drive.google.com/file/d/1xkWQ8ggINwTsWUPFdUirWfyXijNqO8B7/view?usp=sharing",
+                    "Module 4": "https://drive.google.com/file/d/15lZVFtLeowbnm2YTBLDblu9ncw8QRoCY/view?usp=sharing",
+                    "Module 5": "https://drive.google.com/file/d/1ynmQCQjbhWYuSLiDuqr0vAjujqgoOXs3/view?usp=sharing",
+                    "Module 6": "https://drive.google.com/file/d/10yVsN52tuYNioxWVRrUOA1KRRL5UnFz2/view?usp=sharing",
+                    "Module 7": "https://drive.google.com/file/d/1KzdCLWoeQgbfLbExYmbrchxUjunkXgc9/view?usp=sharing"
+                },
+                "FEM2401 Malaysian Politic and Society": {
+                    "TOPIC 1: EARLY HISTORY AND BACKGROUND OF THE SOCIETY": "https://docs.google.com/presentation/d/1pwoAoc5Hi0hape-eITV0T6zKIKkd1S3t/edit#slide=id.p1",
+                    "TOPIC 2: INDEPENDENCE OF MALAYSIA": "https://docs.google.com/presentation/d/1rksIa0N3Ld24i5LejsWjsLdCmxRvMOIY/edit#slide=id.p1",
+                    "TOPIC 3: CULTURE, RELIGION, AND TRADITIONAL PRACTICES OF THE MULTI-ETHNIC SOCIETY": "https://docs.google.com/presentation/d/1n4eEFS3-SzKkOnAv7T656DiY32B4m4gl/edit#slide=id.p1",
+                    "Topic 4: The Federal Constitution of Malaysia": "https://docs.google.com/presentation/d/1Sv6jBDyW11cEagDK0WoCgZt3gQkppMGs/edit#slide=id.p1",
+                    "Topic 5: CONSTITUTIONAL MONARCHY": "https://docs.google.com/presentation/d/1IGLLQWjbSiWc8KlCjD0gwSV14lASFUKk/edit#slide=id.p1",
+                    "Topic 6: PARLIAMENTARY DEMOCRACY": "https://docs.google.com/presentation/d/1GQCgLZFsyaaFsKUG67lqFOwbdgTdEKTh/edit#slide=id.p1",
+                    "Topic 7: FEDERAL SYSTEM": "https://docs.google.com/presentation/d/1ZzpYPELHLhZXrFMeIxGXeDvYag95oPqp/edit#slide=id.p1",
+                    "Topic 8: Executive": "https://docs.google.com/presentation/d/1BsCTUeNzfXBPWH_IoIs6eyPBZdDOpz0Z/edit#slide=id.p1",
+                    "Topic 9: Legislative and Judiciary": "https://docs.google.com/presentation/d/1Bvan5Mwi1aM4B6T67I-BtdYD5iIQpn9H/edit#slide=id.p1",
+                    "Topic 10: Major National Policies": "https://docs.google.com/presentation/d/1KM3BdJpUgz_Ue5FBQrp0PzntpLc84Dv0/edit#slide=id.p1",
+                    "Topic 11: Society and National Identity": "https://docs.google.com/presentation/d/1xbBI5IVZr-IWuqEoiKOdLd5Y-4ofm7wS/edit#slide=id.p1",
+                    "Topic 12: Current Issues and Development in Malaysia": "https://docs.google.com/presentation/d/1-dgyAnMv9_Qqe6iqwXM4poM3O_5aK1ee/edit#slide=id.p1"
+                },
+                "PRT2009 Agriculture and Life": {
+                    "Topic 1 - Introduction Agriculture": "https://docs.google.com/presentation/d/162OS6IgmjTwKW9D1Riec0OYik9zpIMiW/edit#slide=id.p1",
+                    "Topic 2 - Conventional Agriculture": "https://docs.google.com/presentation/d/1LPTidTDfojnYxUtIMdxshcA_XhvYxcE4/edit#slide=id.p1",
+                    "Topic 3 - Genetically modified": "https://docs.google.com/presentation/d/1ThHiMVFPfLH6l3VzjLLmuaLG_5QMhD1N/edit#slide=id.p2",
+                    "Topic 4 - Issues and Challenges": "https://docs.google.com/presentation/d/1tQTtH_k2v-Q_gOYIQKxTVnvhx8yX68_B/edit#slide=id.p1",
+                    "Topic 5 - Agroecolocy and Climate Change": "https://docs.google.com/presentation/d/1jDtTTMefg2CQzGmHwmROh0yyFjqhLh7I/edit#slide=id.p1",
+                    "Topic 6 - Climate Change": "https://docs.google.com/presentation/d/1y8QQ1dA40NbmZBbzbZoegYSOig7HaAh_/edit#slide=id.p1"
+                }
+            },
+            "Semester 2": {
+                "CCS3101 Object-Oriented Programming": {
+
+                },
+                "CCS3200 Computer Organization and Architecture": {
+
+                },
+                "CND3200 Computer Network and Communication": {
+
+                },
+                "SKP3113 Philosophy and Current Issues in Society": {
+                    "Introduction": "https://drive.google.com/file/d/1MyY3z9TmVpZCaS7h3DiFhHoKhmRvwUpm/view?usp=sharing",
+                    "Topic 1 - Introduction to Philosphy": "https://docs.google.com/presentation/d/1WCVjzlFz2SHFHtma8PKSyf2Xwi6QHb4P/edit#slide=id.p1",
+                    "Topic 2 - Philosophy and Life": "https://docs.google.com/presentation/d/1Am7foVAjQVpa1X3LTtDFixbZhEIIRCfd/edit#slide=id.p1",
+                    "Topic 3 - Logic": "https://docs.google.com/presentation/d/1_s-JjYoxARjZdkTTKa2yxMi_9q1wGHsF/edit#slide=id.p1",
+                    "Topic 4 - Concept of Man - Psychology and Sociology": "https://docs.google.com/presentation/d/1oGVZYPmTnxzY8_DYAyGI5ofS1SfjxJCw/edit#slide=id.p1",
+                    "Topic 5 - Concept of Man - Metaphysics": "https://docs.google.com/presentation/d/1xDg8PGOeMTvJMVtTNxvdiK5v3ul0O9sn/edit#slide=id.p1",
+                    "Topic 6 - Epistemology": "https://drive.google.com/file/d/1drdrhdEbrjicur0lpys8PUOAum3GDww1/view?usp=sharing",
+                    "Topic 7 - Ideology": "https://docs.google.com/presentation/d/1Un2OszOfEuqHcm67EoWUwMv5EAi5mJ2C/edit#slide=id.p1"
+                }
+            },
+            "Semester 3": {
+                "CCS3104 Advanced Programming": {
+
+                },
+                "CCS3202 Data Structures and Algorithms": {
+
+                },
+                "CCS3300 Operating Systems": {
+
+                },
+                "CCS3400 Database Principles": {
+
+                },
+                "LPM2100 Malay Language Communication": {
+
+                },
+                "LPE2302 Reading for Academic Purposes": {
+
+                }
+            },
+            "Semester 4": {
+                "CCS4500 Computer Security": {
+
+                },
+                "CSM3204 Computer Graphics and Rendering": {
+
+                },
+                "CSM3401 Interactive Multimedia Web Development": {
+
+                },
+                "CSM3601 Problem Solving Using Artificial Intelligence": {
+
+                },
+                "SSW3001 Software Engineering": {
+
+                },
+                "LPE2403 Academic Interaction and Presentation": {
+
+                }
+            },
+            "Semester 5": {
+                "CCS4202 Design and Analysis of Algorithms": {
+
+                },
+                "CSM3206 Natural Language Processing": {
+
+                },
+                "CSM3207 Virtual Reality": {
+
+                },
+                "CSM4300 Multimedia Project Management": {
+
+                },
+                "CSM4317 Computer Vision": {
+
+                },
+                "LPE2503 Academic Writing": {
+
+                }
+            },
+            "Semester 6": {
+                "CND3400 Mobile Application": {
+
+                },
+                "CSM3315 Augmented Reality Application": {
+
+                },
+                "SSW3307 User Experience and User Interface": {
+
+                },
+                "CCS4300 Multimedia Project Management": {
+
+                },
+                "SSW4202 Ethics in Computing": {
+
+                }
+            },
+            "Semester 7": {
+                "SSW3200 Digital Entrepreneurship": {
+
+                }
+            }
+        },
+        "Bachelor of Computer Science (Computer Network) with Honours": {
+            "Semester 1": {
+                "CCS3003 Discrete Structure": {
+                    "Topic 1 - Fundamentals of Logic": {
+                        "Chapter 1 Part 1 Logic": "https://docs.google.com/presentation/d/1PS46-udoEafKpf5wfyrZ3NPMxK6QNvq5/edit#slide=id.p1",
+                        "Chapter 1 Part 2 Predicates Quantifiers": "https://docs.google.com/presentation/d/1FbCzcjGw5oKMTyu3N2ykGp7VqcYY1IhU/edit#slide=id.p1",
+                        "Chapter 1 Part 3 Rules of Inference": "https://docs.google.com/presentation/d/17lpGctENVoERhNgnKmexmTKldwQr1WRX/edit#slide=id.p1",
+                        "Notes on Propositional Equivalences": "https://drive.google.com/file/d/1LsD7XbhUc9gMmCUMkeZ0Bi4pxSzMnkKU/view?usp=sharing",
+                        "Quiz 1": "https://drive.google.com/file/d/1MEzqGGBCNU4KjYAxf_WYIDeuT-f_m_EF/view?usp=sharing",
+                        "Quiz 2": "https://drive.google.com/file/d/1cVfM7PuQb2JAclmJBWxwi-5XeftYv-3l/view?usp=sharing",
+                        "Assignment 1 - 1": "https://drive.google.com/file/d/1RqWbV4H-t3sBkw06OafTUM09L2eCbqBz/view?usp=sharing",
+                        "Assignment 1 - 2": "https://drive.google.com/file/d/1Wp1hrNXYv37cYdNRGRwdUhDagXSGfYXg/view?usp=sharing",
+                        "Assignment 1 - 3": "https://drive.google.com/file/d/12Hdbv2tdkmAFzjgXVG2n3h63VDrU5DKT/view?usp=sharing"
+                    },
+                    "Topic 2 - Sets and Functions": {
+                        "Chapter 2 Part 1 Set": "https://docs.google.com/presentation/d/14vmC2Sg-Ed6BwdalRrCQriwF7aIsWV0f/edit#slide=id.p2",
+                        "Chapter 2 Part 2 Functions": "https://docs.google.com/presentation/d/1Q2W4s2J5bjOykPGLO0My5iFdlIMruLs5/edit#slide=id.p1",
+                        "Assignment 2 - 1": "https://drive.google.com/file/d/1HOqNwBz1bAXDe85Cg_EP5B3DuC0NlVOO/view?usp=sharing",
+                        "Assignment 2 - 2": "https://drive.google.com/file/d/1TNjQ-EN6QUFYNQkUpZUTV-nzzoqhpG31/view?usp=sharing"
+                    },
+                    "Topic 3 - Relations": {
+                        "Chapter 3 - Relations": "https://docs.google.com/presentation/d/1jxdHEaeuV4aKVQ4NBdcbRREYhRLpQkVH/edit#slide=id.p1",
+                        "Quiz 3": "https://drive.google.com/file/d/1IPLlnoJzRchivG3LL5tIvvUeO1Zyzv38/view?usp=sharing",
+                        "Test 1 - Answer Scheme": "https://drive.google.com/file/d/1UmWt-Xzw7GGDAx48E58IWPTqVRlGJ0Ch/view?usp=sharing"
+                    },
+                    "Topic 4 - Mathematic Induction": {
+                        "Chapter 4 Part 1 Induction": "https://docs.google.com/presentation/d/1r68l6J2VK-5kpg7rKl2VBweeiJrCCWwA/edit#slide=id.p1",
+                        "Chapter 4 Part 2 Recurrence Relation": "https://docs.google.com/presentation/d/1Oq7CArkZuD-knlzVMuslAgk9LL49Ghfe/edit#slide=id.p1",
+                        "Assignment 4 - 1": "https://drive.google.com/file/d/1paLVHFChlTqo5kteI3cRNMuq_wLLhjiF/view?usp=sharings",
+                        "Assignment 4 - 2": "https://drive.google.com/file/d/1JcRIczy1EiJJDkQAtP8_XbDpCxzcStAS/view?usp=sharing",
+                        "Quiz": "https://drive.google.com/file/d/1nctfsM4I_vsTJcyUY3nL7_0zxobZRUg5/view?usp=sharing",
+                        "Notes on Recurrence Relation": "https://drive.google.com/file/d/15LbQ8DJFP_OL0GqIjPvMueiJ7YWi9hhf/view?usp=sharing",
+                        "Quiz 4": "https://drive.google.com/file/d/1-1HMM0rI94cgjwDDb3NLYR5TUUhmFcar/view?usp=sharing"
+                    },
+                    "Topic 5 - Counting": {
+                        "Chapter 5 - Counting": "https://docs.google.com/presentation/d/1-y-j8DvxMmzN1lcIwWfSzuTYMCZ3-u47/edit#slide=id.p1"
+                    },
+                    "Topic 6 - Graph": {
+                        "Chapter 6 - Graph Theory": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 7 - Trees": {
+                        "Chapter 7 - Trees": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 8 - Modelling Computation": {
+                        "Chapter 8 - Modelling Computation": "https://docs.google.com/presentation/d/1-o9wIJ3GYq1qWkNPVw93PmQcCbPkE_iA/edit#slide=id.p1"
+                    }
+                },
+                "CCS3100 Problem Solving and Programming Concepts": {
+                    "Topic 1 - Programming Concepts": {
+                        "Topic 1 - Programming Concepts": "https://docs.google.com/presentation/d/1YmLqz-GsxxlBvhT5NFpqx9DKHqrVXRTN/edit#slide=id.p1",
+                        "Lab 1": "https://drive.google.com/file/d/10qgblu6-7QuIAbqi0JVEUFxejXH34Vt6/view?usp=sharing"
+                    },
+                    "Topic 2 - Basic Data Types and Operations": {
+                        "Topic 2 - Basic Data Types and Operations": "https://docs.google.com/presentation/d/1LNArdirUs0Pq9L6HMALUJqqlZg5FNeop/edit#slide=id.p1",
+                        "Lab 2": "https://drive.google.com/file/d/19gbodfdozoVTwy5CipCNEqAm3o6WOEx_/view?usp=sharing"
+                    },
+                    "Topic 3 - Problem Solving Techniques": {
+                        "Topic 3 - Problem Solving Techniques": "https://docs.google.com/presentation/d/1vyg9rhUvr-ZrJm1Gkvy1w9eIlljt_KEh/edit#slide=id.p1",
+                        "Lab 3": "https://drive.google.com/file/d/1U8-SQ2pcTlWGyUH-UpjJf9DNNT1deNse/view?usp=sharing"
+                    },
+                    "Topic 4 - Problem Solving with Selection Control": {
+                        "Topic 4 - Problem Solving with Selection Control": "https://docs.google.com/presentation/d/1fJ-MXjiyzU6okCX1kH1zkOR6CI3Z8trV/edit#slide=id.p1",
+                        "Lab 4": "https://drive.google.com/file/d/1MyubXn9802V2F9ywRCobAhAn-fxaEwaV/view?usp=sharing"
+                    },
+                    "Topic 5 - Problem Solving with Loop Control": {
+                        "Topic 5 - Problem Solving with Loop Control": "https://docs.google.com/presentation/d/1BTkmcjHGQ4zuK2E1Xy_sLdngshoU17UD/edit#slide=id.p1s",
+                        "Lab 5": "https://drive.google.com/file/d/1LsA-2RjGaFxg1Uwm73NX0t8OP1nE2ZN_/view?usp=sharing"
+                    },
+                    "Topic 6 - Strings": {
+                        "Topic 6 - Strings": "https://docs.google.com/presentation/d/1wproa9GaXXDdHTFwn8wUrDdvi-kdFA00/edit#slide=id.p1",
+                        "Lab 6": "https://drive.google.com/file/d/1Gvh8RYuHmrkAbRDmsXlP5V7cfkPThIEY/view?usp=sharing",
+                        "Lab 6 - 2": "https://drive.google.com/file/d/1pxJyc0NdWgbYI87OVhiTG5__xTCrNj-q/view?usp=sharing"
+                    },
+                    "Topic 7 - Problem Solving using Subroutine": {
+                        "Topic 7 - Problem Solving using Subroutine": "https://docs.google.com/presentation/d/1_eeJOur8nIWfm2Co7p-ArADezf28JTOw/edit#slide=id.p1",
+                        "Lab 7": "https://drive.google.com/file/d/1hlfKiE0P5bGR3zrbxzV7NdkSibN7OwrM/view?usp=sharing"
+                    }
+                },
+                "FEM2401 Malaysian Politic and Society": {
+                    "TOPIC 1: EARLY HISTORY AND BACKGROUND OF THE SOCIETY": "https://docs.google.com/presentation/d/1pwoAoc5Hi0hape-eITV0T6zKIKkd1S3t/edit#slide=id.p1",
+                    "TOPIC 2: INDEPENDENCE OF MALAYSIA": "https://docs.google.com/presentation/d/1rksIa0N3Ld24i5LejsWjsLdCmxRvMOIY/edit#slide=id.p1",
+                    "TOPIC 3: CULTURE, RELIGION, AND TRADITIONAL PRACTICES OF THE MULTI-ETHNIC SOCIETY": "https://docs.google.com/presentation/d/1n4eEFS3-SzKkOnAv7T656DiY32B4m4gl/edit#slide=id.p1",
+                    "Topic 4: The Federal Constitution of Malaysia": "https://docs.google.com/presentation/d/1Sv6jBDyW11cEagDK0WoCgZt3gQkppMGs/edit#slide=id.p1",
+                    "Topic 5: CONSTITUTIONAL MONARCHY": "https://docs.google.com/presentation/d/1IGLLQWjbSiWc8KlCjD0gwSV14lASFUKk/edit#slide=id.p1",
+                    "Topic 6: PARLIAMENTARY DEMOCRACY": "https://docs.google.com/presentation/d/1GQCgLZFsyaaFsKUG67lqFOwbdgTdEKTh/edit#slide=id.p1",
+                    "Topic 7: FEDERAL SYSTEM": "https://docs.google.com/presentation/d/1ZzpYPELHLhZXrFMeIxGXeDvYag95oPqp/edit#slide=id.p1",
+                    "Topic 8: Executive": "https://docs.google.com/presentation/d/1BsCTUeNzfXBPWH_IoIs6eyPBZdDOpz0Z/edit#slide=id.p1",
+                    "Topic 9: Legislative and Judiciary": "https://docs.google.com/presentation/d/1Bvan5Mwi1aM4B6T67I-BtdYD5iIQpn9H/edit#slide=id.p1",
+                    "Topic 10: Major National Policies": "https://docs.google.com/presentation/d/1KM3BdJpUgz_Ue5FBQrp0PzntpLc84Dv0/edit#slide=id.p1",
+                    "Topic 11: Society and National Identity": "https://docs.google.com/presentation/d/1xbBI5IVZr-IWuqEoiKOdLd5Y-4ofm7wS/edit#slide=id.p1",
+                    "Topic 12: Current Issues and Development in Malaysia": "https://docs.google.com/presentation/d/1-dgyAnMv9_Qqe6iqwXM4poM3O_5aK1ee/edit#slide=id.p1"
+                },
+                "SKP3113 Philosophy and Current Issues in Society": {
+                    "Introduction": "https://drive.google.com/file/d/1MyY3z9TmVpZCaS7h3DiFhHoKhmRvwUpm/view?usp=sharing",
+                    "Topic 1 - Introduction to Philosphy": "https://docs.google.com/presentation/d/1WCVjzlFz2SHFHtma8PKSyf2Xwi6QHb4P/edit#slide=id.p1",
+                    "Topic 2 - Philosophy and Life": "https://docs.google.com/presentation/d/1Am7foVAjQVpa1X3LTtDFixbZhEIIRCfd/edit#slide=id.p1",
+                    "Topic 3 - Logic": "https://docs.google.com/presentation/d/1_s-JjYoxARjZdkTTKa2yxMi_9q1wGHsF/edit#slide=id.p1",
+                    "Topic 4 - Concept of Man - Psychology and Sociology": "https://docs.google.com/presentation/d/1oGVZYPmTnxzY8_DYAyGI5ofS1SfjxJCw/edit#slide=id.p1",
+                    "Topic 5 - Concept of Man - Metaphysics": "https://docs.google.com/presentation/d/1xDg8PGOeMTvJMVtTNxvdiK5v3ul0O9sn/edit#slide=id.p1",
+                    "Topic 6 - Epistemology": "https://drive.google.com/file/d/1drdrhdEbrjicur0lpys8PUOAum3GDww1/view?usp=sharing",
+                    "Topic 7 - Ideology": "https://docs.google.com/presentation/d/1Un2OszOfEuqHcm67EoWUwMv5EAi5mJ2C/edit#slide=id.p1"
+                },
+                "PRT2009 Agriculture and Life": {
+                    "Topic 1 - Introduction Agriculture": "https://docs.google.com/presentation/d/162OS6IgmjTwKW9D1Riec0OYik9zpIMiW/edit#slide=id.p1",
+                    "Topic 2 - Conventional Agriculture": "https://docs.google.com/presentation/d/1LPTidTDfojnYxUtIMdxshcA_XhvYxcE4/edit#slide=id.p1",
+                    "Topic 3 - Genetically modified": "https://docs.google.com/presentation/d/1ThHiMVFPfLH6l3VzjLLmuaLG_5QMhD1N/edit#slide=id.p2",
+                    "Topic 4 - Issues and Challenges": "https://docs.google.com/presentation/d/1tQTtH_k2v-Q_gOYIQKxTVnvhx8yX68_B/edit#slide=id.p1",
+                    "Topic 5 - Agroecolocy and Climate Change": "https://docs.google.com/presentation/d/1jDtTTMefg2CQzGmHwmROh0yyFjqhLh7I/edit#slide=id.p1",
+                    "Topic 6 - Climate Change": "https://docs.google.com/presentation/d/1y8QQ1dA40NbmZBbzbZoegYSOig7HaAh_/edit#slide=id.p1"
+                },
+                "FEM2313 Integrity and Anti-corruption": {
+                    "Module 1": "",
+                    "Module 2": "https://drive.google.com/file/d/1EvqmwlqLUwFmXcjOkmAKnVjtrc4E2uqE/view?usp=sharing",
+                    "Module 3": "https://drive.google.com/file/d/1xkWQ8ggINwTsWUPFdUirWfyXijNqO8B7/view?usp=sharing",
+                    "Module 4": "https://drive.google.com/file/d/15lZVFtLeowbnm2YTBLDblu9ncw8QRoCY/view?usp=sharing",
+                    "Module 5": "https://drive.google.com/file/d/1ynmQCQjbhWYuSLiDuqr0vAjujqgoOXs3/view?usp=sharing",
+                    "Module 6": "https://drive.google.com/file/d/10yVsN52tuYNioxWVRrUOA1KRRL5UnFz2/view?usp=sharing",
+                    "Module 7": "https://drive.google.com/file/d/1KzdCLWoeQgbfLbExYmbrchxUjunkXgc9/view?usp=sharing"
+                }
+            },
+            "Semester 2": {
+                "LPM2100 Malay Language Communication": {
+
+                },
+                "CCS3200 Computer Organization and Architecture": {
+
+                },
+                "CCS3101 Object-Oriented Programming": {
+
+                },
+                "CND3101 Python Programming": {
+
+                },
+                "CND3200 Computer Network and Communication": {
+
+                }
+            },
+            "Semester 3": {
+                "CCS3202 Data Structures and Algorithms": {
+
+                },
+                "CCS3400 Database Principles": {
+
+                },
+                "CCS3300 Operating Systems": {
+
+                },
+                "CND3300 System and Network Administration": {
+
+                },
+                "LPE2503 Academic Writing": {
+
+                }
+            },
+            "Semester 4": {
+                "CCS3600 Artificial Intelligence": {
+
+                },
+                "SSW3001 Software Engineering": {
+
+                },
+                "CNS3201 Internetworking Technology": {
+
+                },
+                "CCS3402 Database Application Development": {
+
+                },
+                "CND4400 Distributed Systems": {
+
+                }
+            },
+            "Semester 5": {
+                "SSW3307 User Experience and User Interface": {
+
+                },
+                "CND3100 Network Programming": {
+
+                },
+                "CND4200 enterprise Network Design and Management": {
+
+                },
+                "CND4500 Network Security": {
+
+                }
+            },
+            "Semester 6": {
+                "CND3202 Distributed and Parallel Computing": {
+
+                },
+                "CND4300 Software Defined Network": {
+
+                },
+                "CND4201 Wireless and Mobile Network": {
+
+                },
+                "CND3400 Mobile Application": {
+
+                }
+            },
+            "Semester 7": {
+                "CND4401 Cloud Computing": {
+
+                },
+                "SSW3200 Digital Entrepreneurship": {
+
+                },
+                "SSW4202 Ethics in Computing": {
+
+                }
+            }
+        },
+        "Bachelor of Software Engineering with Honours": {
+            "Semester 1": {
+                "CCS3003 Discrete Structure": {
+                    "Topic 1 - Fundamentals of Logic": {
+                        "Chapter 1 Part 1 Logic": "https://docs.google.com/presentation/d/1PS46-udoEafKpf5wfyrZ3NPMxK6QNvq5/edit#slide=id.p1",
+                        "Chapter 1 Part 2 Predicates Quantifiers": "https://docs.google.com/presentation/d/1FbCzcjGw5oKMTyu3N2ykGp7VqcYY1IhU/edit#slide=id.p1",
+                        "Chapter 1 Part 3 Rules of Inference": "https://docs.google.com/presentation/d/17lpGctENVoERhNgnKmexmTKldwQr1WRX/edit#slide=id.p1",
+                        "Notes on Propositional Equivalences": "https://drive.google.com/file/d/1LsD7XbhUc9gMmCUMkeZ0Bi4pxSzMnkKU/view?usp=sharing",
+                        "Quiz 1": "https://drive.google.com/file/d/1MEzqGGBCNU4KjYAxf_WYIDeuT-f_m_EF/view?usp=sharing",
+                        "Quiz 2": "https://drive.google.com/file/d/1cVfM7PuQb2JAclmJBWxwi-5XeftYv-3l/view?usp=sharing",
+                        "Assignment 1 - 1": "https://drive.google.com/file/d/1RqWbV4H-t3sBkw06OafTUM09L2eCbqBz/view?usp=sharing",
+                        "Assignment 1 - 2": "https://drive.google.com/file/d/1Wp1hrNXYv37cYdNRGRwdUhDagXSGfYXg/view?usp=sharing",
+                        "Assignment 1 - 3": "https://drive.google.com/file/d/12Hdbv2tdkmAFzjgXVG2n3h63VDrU5DKT/view?usp=sharing"
+                    },
+                    "Topic 2 - Sets and Functions": {
+                        "Chapter 2 Part 1 Set": "https://docs.google.com/presentation/d/14vmC2Sg-Ed6BwdalRrCQriwF7aIsWV0f/edit#slide=id.p2",
+                        "Chapter 2 Part 2 Functions": "https://docs.google.com/presentation/d/1Q2W4s2J5bjOykPGLO0My5iFdlIMruLs5/edit#slide=id.p1",
+                        "Assignment 2 - 1": "https://drive.google.com/file/d/1HOqNwBz1bAXDe85Cg_EP5B3DuC0NlVOO/view?usp=sharing",
+                        "Assignment 2 - 2": "https://drive.google.com/file/d/1TNjQ-EN6QUFYNQkUpZUTV-nzzoqhpG31/view?usp=sharing"
+                    },
+                    "Topic 3 - Relations": {
+                        "Chapter 3 - Relations": "https://docs.google.com/presentation/d/1jxdHEaeuV4aKVQ4NBdcbRREYhRLpQkVH/edit#slide=id.p1",
+                        "Quiz 3": "https://drive.google.com/file/d/1IPLlnoJzRchivG3LL5tIvvUeO1Zyzv38/view?usp=sharing",
+                        "Test 1 - Answer Scheme": "https://drive.google.com/file/d/1UmWt-Xzw7GGDAx48E58IWPTqVRlGJ0Ch/view?usp=sharing"
+                    },
+                    "Topic 4 - Mathematic Induction": {
+                        "Chapter 4 Part 1 Induction": "https://docs.google.com/presentation/d/1r68l6J2VK-5kpg7rKl2VBweeiJrCCWwA/edit#slide=id.p1",
+                        "Chapter 4 Part 2 Recurrence Relation": "https://docs.google.com/presentation/d/1Oq7CArkZuD-knlzVMuslAgk9LL49Ghfe/edit#slide=id.p1",
+                        "Assignment 4 - 1": "https://drive.google.com/file/d/1paLVHFChlTqo5kteI3cRNMuq_wLLhjiF/view?usp=sharings",
+                        "Assignment 4 - 2": "https://drive.google.com/file/d/1JcRIczy1EiJJDkQAtP8_XbDpCxzcStAS/view?usp=sharing",
+                        "Quiz": "https://drive.google.com/file/d/1nctfsM4I_vsTJcyUY3nL7_0zxobZRUg5/view?usp=sharing",
+                        "Notes on Recurrence Relation": "https://drive.google.com/file/d/15LbQ8DJFP_OL0GqIjPvMueiJ7YWi9hhf/view?usp=sharing",
+                        "Quiz 4": "https://drive.google.com/file/d/1-1HMM0rI94cgjwDDb3NLYR5TUUhmFcar/view?usp=sharing"
+                    },
+                    "Topic 5 - Counting": {
+                        "Chapter 5 - Counting": "https://docs.google.com/presentation/d/1-y-j8DvxMmzN1lcIwWfSzuTYMCZ3-u47/edit#slide=id.p1"
+                    },
+                    "Topic 6 - Graph": {
+                        "Chapter 6 - Graph Theory": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 7 - Trees": {
+                        "Chapter 7 - Trees": "https://docs.google.com/presentation/d/1w0S3geI3LjX6zbOUm55DXWPQMSD3cXka/edit#slide=id.p1"
+                    },
+                    "Topic 8 - Modelling Computation": {
+                        "Chapter 8 - Modelling Computation": "https://docs.google.com/presentation/d/1-o9wIJ3GYq1qWkNPVw93PmQcCbPkE_iA/edit#slide=id.p1"
+                    }
+                },
+                "CCS3100 Problem Solving and Programming Concepts": {
+                    "Topic 1 - Programming Concepts": {
+                        "Topic 1 - Programming Concepts": "https://docs.google.com/presentation/d/1YmLqz-GsxxlBvhT5NFpqx9DKHqrVXRTN/edit#slide=id.p1",
+                        "Lab 1": "https://drive.google.com/file/d/10qgblu6-7QuIAbqi0JVEUFxejXH34Vt6/view?usp=sharing"
+                    },
+                    "Topic 2 - Basic Data Types and Operations": {
+                        "Topic 2 - Basic Data Types and Operations": "https://docs.google.com/presentation/d/1LNArdirUs0Pq9L6HMALUJqqlZg5FNeop/edit#slide=id.p1",
+                        "Lab 2": "https://drive.google.com/file/d/19gbodfdozoVTwy5CipCNEqAm3o6WOEx_/view?usp=sharing"
+                    },
+                    "Topic 3 - Problem Solving Techniques": {
+                        "Topic 3 - Problem Solving Techniques": "https://docs.google.com/presentation/d/1vyg9rhUvr-ZrJm1Gkvy1w9eIlljt_KEh/edit#slide=id.p1",
+                        "Lab 3": "https://drive.google.com/file/d/1U8-SQ2pcTlWGyUH-UpjJf9DNNT1deNse/view?usp=sharing"
+                    },
+                    "Topic 4 - Problem Solving with Selection Control": {
+                        "Topic 4 - Problem Solving with Selection Control": "https://docs.google.com/presentation/d/1fJ-MXjiyzU6okCX1kH1zkOR6CI3Z8trV/edit#slide=id.p1",
+                        "Lab 4": "https://drive.google.com/file/d/1MyubXn9802V2F9ywRCobAhAn-fxaEwaV/view?usp=sharing"
+                    },
+                    "Topic 5 - Problem Solving with Loop Control": {
+                        "Topic 5 - Problem Solving with Loop Control": "https://docs.google.com/presentation/d/1BTkmcjHGQ4zuK2E1Xy_sLdngshoU17UD/edit#slide=id.p1s",
+                        "Lab 5": "https://drive.google.com/file/d/1LsA-2RjGaFxg1Uwm73NX0t8OP1nE2ZN_/view?usp=sharing"
+                    },
+                    "Topic 6 - Strings": {
+                        "Topic 6 - Strings": "https://docs.google.com/presentation/d/1wproa9GaXXDdHTFwn8wUrDdvi-kdFA00/edit#slide=id.p1",
+                        "Lab 6": "https://drive.google.com/file/d/1Gvh8RYuHmrkAbRDmsXlP5V7cfkPThIEY/view?usp=sharing",
+                        "Lab 6 - 2": "https://drive.google.com/file/d/1pxJyc0NdWgbYI87OVhiTG5__xTCrNj-q/view?usp=sharing"
+                    },
+                    "Topic 7 - Problem Solving using Subroutine": {
+                        "Topic 7 - Problem Solving using Subroutine": "https://docs.google.com/presentation/d/1_eeJOur8nIWfm2Co7p-ArADezf28JTOw/edit#slide=id.p1",
+                        "Lab 7": "https://drive.google.com/file/d/1hlfKiE0P5bGR3zrbxzV7NdkSibN7OwrM/view?usp=sharing"
+                    }
+                },
+                "FEM2401 Malaysian Politic and Society": {
+                    "TOPIC 1: EARLY HISTORY AND BACKGROUND OF THE SOCIETY": "https://docs.google.com/presentation/d/1pwoAoc5Hi0hape-eITV0T6zKIKkd1S3t/edit#slide=id.p1",
+                    "TOPIC 2: INDEPENDENCE OF MALAYSIA": "https://docs.google.com/presentation/d/1rksIa0N3Ld24i5LejsWjsLdCmxRvMOIY/edit#slide=id.p1",
+                    "TOPIC 3: CULTURE, RELIGION, AND TRADITIONAL PRACTICES OF THE MULTI-ETHNIC SOCIETY": "https://docs.google.com/presentation/d/1n4eEFS3-SzKkOnAv7T656DiY32B4m4gl/edit#slide=id.p1",
+                    "Topic 4: The Federal Constitution of Malaysia": "https://docs.google.com/presentation/d/1Sv6jBDyW11cEagDK0WoCgZt3gQkppMGs/edit#slide=id.p1",
+                    "Topic 5: CONSTITUTIONAL MONARCHY": "https://docs.google.com/presentation/d/1IGLLQWjbSiWc8KlCjD0gwSV14lASFUKk/edit#slide=id.p1",
+                    "Topic 6: PARLIAMENTARY DEMOCRACY": "https://docs.google.com/presentation/d/1GQCgLZFsyaaFsKUG67lqFOwbdgTdEKTh/edit#slide=id.p1",
+                    "Topic 7: FEDERAL SYSTEM": "https://docs.google.com/presentation/d/1ZzpYPELHLhZXrFMeIxGXeDvYag95oPqp/edit#slide=id.p1",
+                    "Topic 8: Executive": "https://docs.google.com/presentation/d/1BsCTUeNzfXBPWH_IoIs6eyPBZdDOpz0Z/edit#slide=id.p1",
+                    "Topic 9: Legislative and Judiciary": "https://docs.google.com/presentation/d/1Bvan5Mwi1aM4B6T67I-BtdYD5iIQpn9H/edit#slide=id.p1",
+                    "Topic 10: Major National Policies": "https://docs.google.com/presentation/d/1KM3BdJpUgz_Ue5FBQrp0PzntpLc84Dv0/edit#slide=id.p1",
+                    "Topic 11: Society and National Identity": "https://docs.google.com/presentation/d/1xbBI5IVZr-IWuqEoiKOdLd5Y-4ofm7wS/edit#slide=id.p1",
+                    "Topic 12: Current Issues and Development in Malaysia": "https://docs.google.com/presentation/d/1-dgyAnMv9_Qqe6iqwXM4poM3O_5aK1ee/edit#slide=id.p1"
+                },
+                "SKP3113 Philosophy and Current Issues in Society": {
+                    "Introduction": "https://drive.google.com/file/d/1MyY3z9TmVpZCaS7h3DiFhHoKhmRvwUpm/view?usp=sharing",
+                    "Topic 1 - Introduction to Philosphy": "https://docs.google.com/presentation/d/1WCVjzlFz2SHFHtma8PKSyf2Xwi6QHb4P/edit#slide=id.p1",
+                    "Topic 2 - Philosophy and Life": "https://docs.google.com/presentation/d/1Am7foVAjQVpa1X3LTtDFixbZhEIIRCfd/edit#slide=id.p1",
+                    "Topic 3 - Logic": "https://docs.google.com/presentation/d/1_s-JjYoxARjZdkTTKa2yxMi_9q1wGHsF/edit#slide=id.p1",
+                    "Topic 4 - Concept of Man - Psychology and Sociology": "https://docs.google.com/presentation/d/1oGVZYPmTnxzY8_DYAyGI5ofS1SfjxJCw/edit#slide=id.p1",
+                    "Topic 5 - Concept of Man - Metaphysics": "https://docs.google.com/presentation/d/1xDg8PGOeMTvJMVtTNxvdiK5v3ul0O9sn/edit#slide=id.p1",
+                    "Topic 6 - Epistemology": "https://drive.google.com/file/d/1drdrhdEbrjicur0lpys8PUOAum3GDww1/view?usp=sharing",
+                    "Topic 7 - Ideology": "https://docs.google.com/presentation/d/1Un2OszOfEuqHcm67EoWUwMv5EAi5mJ2C/edit#slide=id.p1"
+                },
+                "PRT2009 Agriculture and Life": {
+                    "Topic 1 - Introduction Agriculture": "https://docs.google.com/presentation/d/162OS6IgmjTwKW9D1Riec0OYik9zpIMiW/edit#slide=id.p1",
+                    "Topic 2 - Conventional Agriculture": "https://docs.google.com/presentation/d/1LPTidTDfojnYxUtIMdxshcA_XhvYxcE4/edit#slide=id.p1",
+                    "Topic 3 - Genetically modified": "https://docs.google.com/presentation/d/1ThHiMVFPfLH6l3VzjLLmuaLG_5QMhD1N/edit#slide=id.p2",
+                    "Topic 4 - Issues and Challenges": "https://docs.google.com/presentation/d/1tQTtH_k2v-Q_gOYIQKxTVnvhx8yX68_B/edit#slide=id.p1",
+                    "Topic 5 - Agroecolocy and Climate Change": "https://docs.google.com/presentation/d/1jDtTTMefg2CQzGmHwmROh0yyFjqhLh7I/edit#slide=id.p1",
+                    "Topic 6 - Climate Change": "https://docs.google.com/presentation/d/1y8QQ1dA40NbmZBbzbZoegYSOig7HaAh_/edit#slide=id.p1"
+                },
+                "LPM2100 Malay Language Communication": {
+
+                }
+            },
+            "Semester 2": {
+                "CCS3200 Computer Organization and Architecture": {
+
+                },
+                "CCS3101 Object-Oriented Programming": {
+
+                },
+                "SSW3201 Statistics for Computer Science": {
+
+                },
+                "SWW3301 Software Requirements Engineering": {
+
+                },
+                "FEM2313 Integrity and Anti-corruption": {
+                    "Module 1": "",
+                    "Module 2": "https://drive.google.com/file/d/1EvqmwlqLUwFmXcjOkmAKnVjtrc4E2uqE/view?usp=sharing",
+                    "Module 3": "https://drive.google.com/file/d/1xkWQ8ggINwTsWUPFdUirWfyXijNqO8B7/view?usp=sharing",
+                    "Module 4": "https://drive.google.com/file/d/15lZVFtLeowbnm2YTBLDblu9ncw8QRoCY/view?usp=sharing",
+                    "Module 5": "https://drive.google.com/file/d/1ynmQCQjbhWYuSLiDuqr0vAjujqgoOXs3/view?usp=sharing",
+                    "Module 6": "https://drive.google.com/file/d/10yVsN52tuYNioxWVRrUOA1KRRL5UnFz2/view?usp=sharing",
+                    "Module 7": "https://drive.google.com/file/d/1KzdCLWoeQgbfLbExYmbrchxUjunkXgc9/view?usp=sharing"
+                }
+            },
+            "Semester 3": {
+                "CCS3202 Data Structures and Algorithms": {
+
+                },
+                "CCS3400 Database Principles": {
+
+                },
+                "SSW3302 Software Architecture and Design": {
+
+                },
+                "CND3200 Computer Network and Communication": {
+
+                },
+                "LPE2303 Reading for Academic Purpose": {
+
+                }
+            },
+            "Semester 4": {
+                "CCS3300 Operating Systems": {
+
+                },
+                "SSW3305 SOftware Testing": {
+
+                },
+                "SSW3307 User Experience and User Interface": {
+
+                },
+                "SSW4201 Software Development Methodology": {
+
+                },
+                "LPW2403 Academic Interaction and Presentation": {
+
+                }
+            },
+            "Semester 5": {
+                "SSW3200 Digital Entrepreneurship": {
+
+                },
+                "SSW3310 Software Project Management": {
+
+                },
+                "SSW4251 Software Maintenance and Evolution": {
+
+                }
+            },
+            "Semester 6": {
+                "SSW4356 Secure Software Development": {
+
+                },
+                "SSW3400 Software Engineering Team Project": {
+
+                }
+            },
+            "Semester 7": {
+                "SSW4202 Ethics in Computing": {
+
+                }
+            }
+        }
+    },
+    "School of Business and Economy": {
+        "Bachelor of Business and Administration": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Bachelor of Economics": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Accounting": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        }
+    },
+    "Faculty of Veterinary Medicine": {
+        "Veterinary Preclinical Science": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Veterinary Pathology and Microbiology": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Veterinary Clinical Studies": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Veterinary Laboratory Diagnosis": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Companion Animal Medicine and Surgery": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Farm and Exotic Animal Medicine and Surgery": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        }
+    },
+    "Faculty of Science": {
+        "Bachelor of Science in Biology with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Bachelor of Science with Education (Hons.)": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science in Physics with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science in Instrumentation with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Bachelor of Science in Materials Physics with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science in Physics with Education (Honours)": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science in Chemistry with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Bachelor of Science in Industrial Chemistry with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science in Petroleum Chemistry with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Science Chemistry with Education (Honours)": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+            
+        },
+        "Bachelor of Mathematical Science with Honors": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Statistical Science with Honors": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Mathematical Science with Education (Honours)": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        }
+    },
+    "Faculty of Modern Languages and Communications": {
+        "Bachelor of Arts Malay Language and Linguistics with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Arts Malay Literature with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of English Language and Linguistics with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of English Literature with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Arts in Chinese Language Studies with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Arts in German Language Studies with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Arts in France Language Studies with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Arts in Arabic Language Studies with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        },
+        "Bachelor of Communication with Honours": {
+            "Semester 1": {
+
+            },
+            "Semester 2": {
+
+            },
+            "Semester 3": {
+
+            },
+            "Semester 4": {
+
+            },
+            "Semester 5": {
+
+            },
+            "Semester 6": {
+
+            },
+            "Semester 7": {
+
+            }
+        }
+    },
+    "Faculty of Medicine and Health Science": {
+
+    },
+    "Faculty of Human Ecology": {
+
+    },
+    "Faculty of Food Science and Technology": {
+
+    },
+    "Faculty of Engineering": {
+
+    },
+    "Faculty of Educational Studies": {
+
+    },
+    "Faculty of Design and Architecture": {
+
+    },
+    "Faculty of Biotechnology and Biomolecular Science": {
+
+    },
+    "Faculty of Agriculture": {
+
+    },
+    "Faculty of Humanities, Management and Science": {
+
+    },
+    "Faculty of Agricultural Science and Forestry": {
+
+    }
+}
