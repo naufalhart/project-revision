@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>PPI UPM</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <div>
+                <a class="logo" href="/">
+                    <img src="{{ url_for('static', filename='assets/images.jpg')}}" class="image"/>
+                    <p class="p-ppi" id="p-ppi">PPI UPM</p>
+                </a>
+            </div>
+            <ul class="list-navbar">
+                <li><a href="/" class="a-akademik">Akademik</a></li>
+                <li class="a-info"><a>Informasi kampus</a></li>
+                <li class="a-about"><a>Siapa Kami?</a></li>
+            </ul>
+        </nav>
+        <div class="background">
+            <img class="psas-img" src="{{ url_for('static', filename='assets/psas.jpg')}}"/>
+            <div class="academic-background">
+                <h5>
+                    <a href="/">Akademik</a>
+                    {% if subpath %}
+                        {% set segments = subpath.split('/') %}
+                        {% set current = '' %}
+                        {% for segment in segments %}
+                            {% set current = current + '/' + segment %}
+                            / <a href="{{ current }}">{{ segment }}</a>
+                        {% endfor %}
+                    {% endif %}
+                </h5>
+                <h1 class="h1-title">
+                    <img src="{{ url_for('static', filename='assets/info.png')}}" class="list-logo"/>
+                    {{ segments[-1] if subpath else "Akademik" }}
+                </h1>
+                {% if page %}
+                    <ul class="faculties">
+                        {% for key, value in page.items() %}
+                            <li>
+                                {% if value is mapping %}
+                                    <a href="/{{ subpath + '/' if subpath else '' }}{{ key }}" class="fakultas">
+                                        <img src="{{ url_for('static', filename='assets/edit.png')}}" class="list-logo"/>{{ key }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ value }}" class="fakultas" target="_blank">
+                                        <img src="{{ url_for('static', filename='assets/edit.png')}}" class="list-logo"/>{{ key }}
+                                    </a>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p class="unavailable">Konten belum tersedia saat ini</p>
+                {% endif %}
+            </div>
+        </div>
+        <div class="footer">
+            <ul>
+                <li><a href="https://www.instagram.com/ppi_upm"><img src="../static/assets/instagram.png"/></a></li>
+                <li><a href="https://www.linkedin.com/company/ppi-universiti-putra-malaysia/?originalSubdomain=my"><img src="../static/assets/linkedin.png"/></a></li>
+                <li><a href="https://www.tiktok.com/@ppi_upm"><img src="../static/assets/tik-tok.png"/></a></li>
+                <li><a href="https://wa.me/message/2AUCKFJ7AXPNB1"><img src="../static/assets/whatsapp.png"/></a></li>
+            </ul>
+        </div>
+        <script src="{{ url_for('static', filename='script.js')}}"></script>
+    </body>
+</html>
